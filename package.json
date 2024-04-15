@@ -1,0 +1,34 @@
+{
+  "name": "@waset/uni-reset-manifest",
+  "version": "1.0.0",
+  "description": "Uniapp 重置manifest配置",
+  "keywords": [
+    "uni-app",
+    "manifest",
+    "reset"
+  ],
+  "author": "waset <waset@foxmail.com>",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waset/uni-reset-manifest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/waset/uni-reset-manifest/issues"
+  },
+  "homepage": "https://github.com/waset/uni-reset-manifest#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
